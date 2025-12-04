@@ -79,7 +79,8 @@ OUTPUT WAVEFORM
 <img width="1919" height="1130" alt="sai exp 3" src="https://github.com/user-attachments/assets/586c26d7-ed52-4acd-b8e6-a8b351500fef" />
 
 TABULATION
-![exp 3 ssbsc](https://github.com/user-attachments/assets/1d237b09-a5f4-45b6-b354-c370f4e6055f)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2da5cddb-3501-4a39-813a-60164d82f973" />
+
 
 
 
